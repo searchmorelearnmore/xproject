@@ -1,0 +1,19 @@
+.contact-icon,.fa-phone,.fa-envelope{
+	padding:6px 10px;
+}
+.top-nav{
+	border-bottom: 1px solid #ddd;
+}
+.tt-desktop-header{
+    padding: 15px 10px;
+}
+.icon-left{
+	margin-left: 90px;
+}
+.icon-right{
+	float: right;
+	margin-right: 107px;
+}
+.social-icon,.fa-facebook,.fa-twitter,.fa-linkedin.fa-google-plus{
+	padding:6px 10px;
+}
